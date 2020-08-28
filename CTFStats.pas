@@ -4,7 +4,7 @@ uses database;
 
 const
 	DB_ID = 5;
-	DB_NAME = '/home/shared_data/CTFStats.db';
+	DB_NAME = 'CTFStats.db';
 	MSG_COLOR = $0080FF;
 	TIME_SAVE_STATS = 60; //How often stats should be saved to database (in seconds)
 	Skill_Update_Speed = 5;
